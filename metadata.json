@@ -1,0 +1,6 @@
+{
+  "name": "Aryan Portfolio",
+  "description": "Sleek, cinematic dark mode portfolio website for Aryan, professional video editor and podcast content creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
